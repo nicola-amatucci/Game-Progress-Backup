@@ -1,0 +1,108 @@
+{
+	"games" : [
+		{
+			"name": "Angry Birds Space (Free)",
+			"package_name": "com.rovio.angrybirdsspace.ads",
+			"version": "1.1.0",
+			"root": 0,
+			"root_write": 0,
+			"verified" : 1
+		},
+		{
+			"name": "Angry Birds Space (Premium)",
+			"package_name": "com.rovio.angrybirdsspace.premium",
+			"version": "1.1.0",
+			"root": 0,
+			"root_write": 0,
+			"verified" : 1
+		},
+		{
+			"name": "Angry Birds Rio",
+			"package_name": "com.rovio.angrybirdsrio",
+			"version" : "1.4.4",
+			"root": 0,
+			"root_write": 0,
+			"verified" : 0
+		},
+		{
+			"name": "Angry Birds Seasons",
+			"package_name": "com.rovio.angrybirdsseasons",
+			"version": "2.3.0",
+			"root": 0,
+			"root_write": 0,
+			"verified" : 0
+		},
+		{
+			"name": "Angry Birds",
+			"package_name": "com.rovio.angrybirds",
+			"version" : "2.1.1",
+			"root": 0,
+			"root_write": 0,
+			"verified" : 0
+		},
+		{
+			"name": "Zenonia",
+			"package_name": "com.gamevil.zenonia",
+			"version" : "1.2.0",
+			"root": 0,
+			"root_write": 0,
+			"verified" : 1		
+		},
+		{
+			"name": "Temple Run",
+			"package_name": "com.imangi.templerun",
+			"version" : "1.0.2",
+			"root": 0,
+			"root_write": 0,
+			"verified" : 1		
+		},
+		{
+			"name": "Cut The Rope (Paid)",
+			"package_name": "com.zeptolab.ctr.paid",
+			"version" : "1.4",
+			"root": 0,
+			"root_write": 0,
+			"verified" : 1		
+		},
+		{
+			"name": "World Of Goo (Full)",
+			"package_name": "com.twodboy.worldofgoofull",
+			"version" : "1.0.2",
+			"root": 0,
+			"root_write": 0,
+			"verified" : 1		
+		},
+		{
+			"name": "Fruit Ninja (Paid)",
+			"package_name": "com.halfbrick.fruitninja",
+			"version" : "1.7.6",
+			"root": 0,
+			"root_write": 0,
+			"verified" : 1		
+		},
+		{
+			"name": "Fruit Ninja (Free)",
+			"package_name": "com.halfbrick.fruitninjafree",
+			"version" : "1.6.2.10",
+			"root": 0,
+			"root_write": 0,
+			"verified" : 1		
+		},
+		{
+			"name": "Fruit Ninja: Puss in Boots",
+			"package_name": "com.halfbrick.fruitninjapib",
+			"version" : "1.0",
+			"root": 0,
+			"root_write": 0,
+			"verified" : 0		
+		},
+		{
+			"name": "Nyan Cat: Lost In Space",
+			"package_name": "com.istomgames.engine",
+			"version" : "1.1",
+			"root": 0,
+			"root_write": 0,
+			"verified" : 0		
+		}
+	]
+}

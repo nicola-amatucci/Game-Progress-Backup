@@ -1,0 +1,6 @@
+CP %INTERNAL_DATA_PATH%/com.istomgames.engine/files/ps_last_theme
+CP %INTERNAL_DATA_PATH%/com.istomgames.engine/files/ps_last_skin
+CP %INTERNAL_DATA_PATH%/com.istomgames.engine/files/of_prefs
+CP %INTERNAL_DATA_PATH%/com.istomgames.engine/files/nyan_hs_v1_0.txt
+CP %INTERNAL_DATA_PATH%/com.istomgames.engine/files/banner_start.txt
+CP %INTERNAL_DATA_PATH%/com.istomgames.engine/files/achievements.txt

@@ -1,0 +1,19 @@
+#APK_EXISTS com.rovio.angrybirdsspace.ads
+#APK_EXISTS com.rovio.angrybirdsspace.premium
+#APK_VERSION com.rovio.angrybirdsspace.ads 1.1.0
+#APK_VERSION com.rovio.angrybirdsspace.premium 1.1.0
+
+EXISTS_FILE %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.ads/files/eaglepurchases.lua
+EXISTS_FILE %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.ads/files/highscores.lua
+EXISTS_FILE %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.ads/files/episodepurchases.lua
+EXISTS_FILE %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.ads/files/settings.lua
+
+EXISTS_FILE %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.premium/files/eaglepurchases.lua
+EXISTS_FILE %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.premium/files/highscores.lua
+EXISTS_FILE %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.premium/files/episodepurchases.lua
+EXISTS_FILE %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.premium/files/settings.lua
+
+COPY %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.ads/files/eaglepurchases.lua %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.premium/files/eaglepurchases.lua 
+COPY %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.ads/files/highscores.lua %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.premium/files/highscores.lua
+COPY %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.ads/files/episodepurchases.lua %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.premium/files/episodepurchases.lua
+COPY %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.ads/files/settings.lua %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.premium/files/settings.lua

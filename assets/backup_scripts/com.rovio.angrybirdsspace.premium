@@ -1,0 +1,4 @@
+CP %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.premium/files/eaglepurchases.lua
+CP %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.premium/files/highscores.lua
+CP %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.premium/files/episodepurchases.lua
+CP %INTERNAL_DATA_PATH%/com.rovio.angrybirdsspace.premium/files/settings.lua

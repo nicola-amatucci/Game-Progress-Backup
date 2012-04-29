@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Game Progress Backup</string>
+    <string name="loading_title">Loading</string>    
+	<string name="loading_please_wait">Please wait...</string>
+	<string name="error">Something bad happened!</string>
+	<string name="click_on_game_msg">Select a game from the list!</string>
+	<string name="click_on_script_msg">Select a script from the list!</string>
+	<string name="run_script_question">Do you want to run this script?</string>
+	<string name="no_game_found">No compatible game found!</string>
+	<string name="no_script_found">No script found!</string>
+	<string name="no_external_storage_found">No SD CARD found!</string>
+	<string name="app_menu_title">Tasks</string>
+	<string name="backup_to_external">Backup to SD CARD</string>
+	<string name="restore_from_external">Restore from SD CARD</string>
+	<string name="delete_from_external">Delete from SD CARD</string>
+	<string name="replace_backup_title">Backup already exists!</string>
+	<string name="replace_backup_text">Do you want to replace existing files?</string>
+	<string name="restore_backup_title">Restore</string>
+	<string name="restore_backup_text">Do you want to proceed restoring backup?</string>
+	<string name="delete_backup_title">Remove backup</string>
+	<string name="delete_backup_text">Do you want to remove existing files?</string>
+	<string name="delete_backup_ok">Backup deleted!</string>
+	<string name="delete_backup_fail">Backup NOT deleted!</string>
+	<string name="backup_title">Backup</string>
+	<string name="backup_ok">Backup done!</string>
+	<string name="backup_fail">Backup failed!</string>
+	<string name="no_backup_found">Backup not found!</string>
+	<string name="restore_title">Restore</string>
+	<string name="restore_ok">Restore done!</string>
+	<string name="restore_fail">Restore failed!</string>
+	<string name="before_restore_message">Some file are missing! Before restore, start the game once, play a little and save! If there is more that one save-slot, please save the game as many time you did in the Backup!</string>
+	<string name="script_run_title">Run Script</string>
+	<string name="script_run_please_wait">Please wait...</string>
+	<string name="script_run_ok">Script ended without errors!</string>
+	<string name="script_run_fail">Error while executing the script!</string>
+	<string name="disclaimer">This application is experimental, so if you use it you could experiment problems or damages; use it at your own risk: I disclaim all liability for damages or problems caused from it.</string>
+	<string name="exit_confirm_title">Confirm Exit</string>
+	<string name="exit_confirm_message">Are you sure you want to exit?</string>
+</resources>

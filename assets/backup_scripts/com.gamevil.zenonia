@@ -1,0 +1,5 @@
+CP %INTERNAL_DATA_PATH%/com.gamevil.zenonia/files/Save0.dat
+CP %INTERNAL_DATA_PATH%/com.gamevil.zenonia/files/Save1.dat
+CP %INTERNAL_DATA_PATH%/com.gamevil.zenonia/files/Save2.dat
+CP %INTERNAL_DATA_PATH%/com.gamevil.zenonia/files/option.sav
+CP %INTERNAL_DATA_PATH%/com.gamevil.zenonia/files/BGM.sav

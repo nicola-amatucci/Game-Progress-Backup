@@ -1,0 +1,10 @@
+{
+	"scripts" : [
+		{
+			"title": "Angry Birds Space Free to Premium",
+			"description": "If you have purchased Angry Bird Premium after a lot of playing with Free version, with this script you'll be able to transfer your progress",
+			"root": 0,
+			"script" : "angry_birds_space_pro_upgrade"
+		}
+	]
+}

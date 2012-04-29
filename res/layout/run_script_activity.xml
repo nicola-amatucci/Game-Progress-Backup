@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <WebView
+        android:id="@+id/yourwebview1"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.50" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.02"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/cancelScriptButton"
+            android:layout_width="160dp"
+            android:layout_height="fill_parent"
+            android:text="@android:string/no" />
+
+        <Button
+            android:id="@+id/runScriptButton"
+            android:layout_width="160dp"
+            android:layout_height="fill_parent"
+            android:text="@android:string/yes" />
+
+    </LinearLayout>
+
+</LinearLayout>
